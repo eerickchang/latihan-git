@@ -1,2 +1,4 @@
 //Senin
-console.log("Baris Pertama");   
+console.log("Baris Pertama");  
+
+//File Baru
